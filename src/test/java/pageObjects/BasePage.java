@@ -13,4 +13,7 @@ public class BasePage {
 		PageFactory.initElements(driver,this);//initElements applies driver to all the elements
 		
 	}
-}
+} 
+
+
+
